@@ -1,0 +1,18 @@
+[
+    {
+      "model": "fin_pull.CategoryType",
+      "pk": 1,
+      "fields": {
+        "category": 1,
+        "history_type": 2
+      }
+    },
+    {
+      "model": "fin_pull.CategoryType",
+      "pk": 2,
+      "fields": {
+        "category": 2,
+        "history_type": 1
+      }
+    }
+  ]

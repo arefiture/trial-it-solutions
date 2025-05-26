@@ -1,0 +1,18 @@
+[
+    {
+      "model": "fin_pull.HistoryType",
+      "pk": 1,
+      "fields": {
+        "name": "Пополнение",
+        "slug": "replenishment"
+      }
+    },
+    {
+      "model": "fin_pull.HistoryType",
+      "pk": 2,
+      "fields": {
+        "name": "Списание",
+        "slug": "write-off"
+      }
+    }
+  ]

@@ -1,0 +1,38 @@
+[
+    {
+      "model": "fin_pull.SubCategory",
+      "pk": 1,
+      "fields": {
+        "name": "VPS",
+        "slug": "vps",
+        "category": 1
+      }
+    },
+    {
+      "model": "fin_pull.SubCategory",
+      "pk": 2,
+      "fields": {
+        "name": "Proxy",
+        "slug": "proxy",
+        "category": 1
+      }
+    },
+    {
+        "model": "fin_pull.SubCategory",
+        "pk": 3,
+        "fields": {
+          "name": "Farpost",
+          "slug": "farpost",
+          "category": 2
+        }
+      },
+      {
+        "model": "fin_pull.SubCategory",
+        "pk": 4,
+        "fields": {
+          "name": "Avito",
+          "slug": "avito",
+          "category": 2
+        }
+      }
+  ]

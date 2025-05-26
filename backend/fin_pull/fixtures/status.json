@@ -1,0 +1,26 @@
+[
+    {
+      "model": "fin_pull.Status",
+      "pk": 1,
+      "fields": {
+        "name": "Бизнес",
+        "slug": "business"
+      }
+    },
+    {
+      "model": "fin_pull.Status",
+      "pk": 2,
+      "fields": {
+        "name": "Личное",
+        "slug": "personal"
+      }
+    },
+    {
+        "model": "fin_pull.Status",
+        "pk": 3,
+        "fields": {
+          "name": "Налог",
+          "slug": "tax"
+        }
+      }
+  ]

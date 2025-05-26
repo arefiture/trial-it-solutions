@@ -1,0 +1,18 @@
+[
+    {
+      "model": "fin_pull.Category",
+      "pk": 1,
+      "fields": {
+        "name": "Инфраструктура",
+        "slug": "infra"
+      }
+    },
+    {
+      "model": "fin_pull.Category",
+      "pk": 2,
+      "fields": {
+        "name": "Маркетинг",
+        "slug": "market"
+      }
+    }
+  ]
