@@ -27,4 +27,4 @@ class History(models.Model):
 
     class Meta:
         verbose_name = 'запись о ДДС'
-        verbose_name = 'записи о ДДС'
+        verbose_name_plural = 'записи о ДДС'

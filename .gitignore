@@ -410,4 +410,7 @@ env/
 .env
 
 # sqlite
-.sqlite3
+db.sqlite3
+
+# dev-sh
+helper.sh

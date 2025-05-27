@@ -13,4 +13,4 @@ class Category(ShortBaseModels):
 
     class Meta:
         verbose_name = 'категория'
-        verbose_name = 'категории'
+        verbose_name_plural = 'категории'

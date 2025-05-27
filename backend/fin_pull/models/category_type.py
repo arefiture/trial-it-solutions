@@ -17,4 +17,4 @@ class CategoryType(models.Model):
 
     class Meta:
         verbose_name = 'связь категории и типа'
-        verbose_name = 'связи категорий и типов'
+        verbose_name_plural = 'связи категорий и типов'

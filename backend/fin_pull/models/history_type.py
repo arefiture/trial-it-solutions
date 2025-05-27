@@ -6,4 +6,4 @@ class HistoryType(ShortBaseModels):
 
     class Meta:
         verbose_name = 'тип'
-        verbose_name = 'типы'
+        verbose_name_plural = 'типы'

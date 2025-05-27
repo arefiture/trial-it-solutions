@@ -6,4 +6,4 @@ class Status(ShortBaseModels):
 
     class Meta:
         verbose_name = 'статус'
-        verbose_name = 'статусы'
+        verbose_name_plural = 'статусы'

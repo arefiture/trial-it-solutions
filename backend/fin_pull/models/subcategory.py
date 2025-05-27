@@ -9,4 +9,4 @@ class SubCategory(ShortBaseModels):
 
     class Meta:
         verbose_name = 'подкатегория'
-        verbose_name = 'подкатегории'
+        verbose_name_plural = 'подкатегории'
